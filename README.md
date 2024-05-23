@@ -78,4 +78,14 @@ Change the parameters `pre_train`, `dir_test`, and `outputs` in `test.py`.
 ---
 ### Citing 
 
-The code is released for academic research use only. 
+The code is released for academic research use only.  If you find our code useful please consider citing:
+```
+@inproceedings{huang2023mutual,
+  title={A Mutual Enhancement Framework for Specular Highlight Detection and Removal},
+  author={Huang, Ge and Yao, Jieru and Huang, Peiliang and Han, Longfei},
+  booktitle={Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
+  pages={457--468},
+  year={2023},
+  organization={Springer}
+}
+```
